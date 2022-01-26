@@ -1,0 +1,15 @@
+mkdir dir1    - to create a directory
+
+ls            - list
+
+cd dir1       - to enter into directory
+
+touch file1   - to create file1
+
+cd ..         - to come back from dir1
+
+git add .     - to add file to stagging area
+
+git commit -m "label" - to commit to local repo
+
+git push     - push into central repo
